@@ -13,4 +13,4 @@
   - 크롤러 제작 부분에서 코드 확인 가능합니다.
 - [원티드 워드클라우드 진행](https://github.com/hoseong0422/MC_PJ_01/tree/master/codes/WordCloud)
 
-프로젝트 관련 자세한 내용은 [노션 Portpolio](https://www.notion.so/data-explorer/ca468cd74a754d539ad14ed7360acc4c)를 통해 확인하실 수 있습니다.
+프로젝트 상세 정리 [노션](https://field-nerve-7fd.notion.site/6eebd236074146268bba1f2a56e1f535) 페이지
